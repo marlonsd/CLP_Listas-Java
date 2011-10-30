@@ -1,0 +1,17 @@
+// ------------------------------------------------------------
+//	Trabalho Conceitos de Linguagens de Programação
+//
+// Integrantes: Andre Peil, Daniel Retzlaff, Marlon Dias
+// README
+// ------------------------------------------------------------
+
+   Projeto consiste na implementação de estruturas de dados do tipo:
+lista, pilha e fila. Em uma linguagem orientada a objetos e, a linguagem
+escolhida pelo grupo é Java. Este é umtrabalho desenvolvido para a disciplina
+de Conceitos de Linguagens de Programação do curso de Ciência da Computação
+da Universidade Federal de Pelotas.
+
+   This project consists in data structure implementation: list, stack and queue. It must be
+implemented in some language object oriented, and we're going to use Java. This is a
+work developed to discipline of Concepts of Programming Languages of Computer Science course
+from Universidade Federal de Pelotas.
